@@ -1,11 +1,3 @@
-# Job Automation AI
-
-Automates job search, filtering, resume tailoring, and applications using AI.
-
-## Tech Stack
-- Java (Spring Boot)
-- Ollama (Local LLM)
-- n8n (Automation)
 # 🤖 AutoJobApply
 
 An AI-powered job search and auto-application bot built with Java, Spring Boot, Selenium, and Groq AI. It searches for relevant jobs across multiple platforms, matches them against your resume using AI, generates tailored cover letters, and automatically applies — all with a single API call.
